@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Vacío",
+        "precioKilo": 749,
+        "imagen": "img/cardVacio.jpg"
+    },
+    {
+        "nombre": "Costilla",
+        "precioKilo": 699,
+        "imagen": "img/cardCostilla.jpg"
+    },
+    {
+        "nombre": "Entraña",
+        "precioKilo": 820,
+        "imagen": "img/cardEntrana.jpg"
+}
+]
